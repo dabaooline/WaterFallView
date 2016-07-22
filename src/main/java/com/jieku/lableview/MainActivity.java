@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void createData() {
         lables = new ArrayList<>();
-        List<String> strings = Arrays.asList(new String[]{"你好", "拜拜", "再见", "seee", "baidu", "google"});
+        List<String> strings = Arrays.asList(new String[]{"你好", "拜拜", "再见", "Hello,World", "Long live China"});
         for (int i = 0;i<strings.size();i++) {
             lables.add(new Lable(strings.get(i)));
         }
