@@ -3,4 +3,4 @@
 稍后会进一步对其进行完善，不过不影响大家在此基础上进行开发
 
 # 效果图
-![](http://i.imgur.com/wpslkjl.gif)
+![](https://github.com/dabaooline/WaterFallView/blob/master/art/screenshort.gif)
